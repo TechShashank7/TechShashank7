@@ -4,8 +4,6 @@
   <img alt="TechShashank7's GitHub profile" src="dark_mode.svg" />
 </picture>
 
-## Hi there 👋
-
 <!--
 **TechShashank7/TechShashank7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
